@@ -33,6 +33,7 @@ SOURCES = [
 def summarize_article(title, content):
     msg = client.messages.create(
         model="claude-haiku-4-5-20251001",
+        system="You are a JSON-only response bot. You must always respond with valid JSON and nothing else. Never add explanation or markdown.",
         max_tokens=300,
         messages=[{
             "role": "user",
@@ -48,6 +49,7 @@ Respond ONLY with valid JSON like this:
         }]
     )
     raw = msg.content[0].text.strip()
+    print(f"  RAW RESPONSE: {raw[:100]}")
     raw = raw.replace("```json", "").replace("```", "").strip()
     return json.loads(raw)
 
