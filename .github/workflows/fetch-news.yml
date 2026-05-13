@@ -2,14 +2,31 @@ name: Fetch and Summarize AI News
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 13 * * *'
+    - cron: '0 14 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
+  check-time:
+    runs-on: ubuntu-latest
+    outputs:
+      is_9am_et: ${{ steps.check.outputs.is_9am_et }}
+    steps:
+      - id: check
+        run: |
+          HOUR=$(TZ='America/New_York' date +%H)
+          if [ "$HOUR" = "09" ]; then
+            echo "is_9am_et=true" >> $GITHUB_OUTPUT
+          else
+            echo "is_9am_et=false" >> $GITHUB_OUTPUT
+          fi
+
   update-news:
+    needs: check-time
+    if: needs.check-time.outputs.is_9am_et == 'true' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
 
     steps:
