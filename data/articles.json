@@ -1,110 +1,110 @@
 {
-  "updated_at": "2026-05-12T14:41:26.652301+00:00",
+  "updated_at": "2026-05-13T03:55:36.637525+00:00",
   "count": 66,
   "articles": [
     {
       "id": 1,
       "source": "The Verge",
-      "title": "OpenAI just released its answer to Claude Mythos",
-      "summary": "OpenAI launched Daybreak, an AI security initiative using the Codex Security agent to detect and patch vulnerabilities before attackers exploit them by analyzing code and automating threat detection.",
+      "title": "Sam Altman was winning on the stand, but it might not be enough",
+      "summary": "Sam Altman testified in court regarding allegations of stealing a charity, claiming he and Elon Musk built it together and that Musk tried to destroy it twice.",
       "tags": [
-        "OpenAI",
-        "Cybersecurity",
-        "AI"
+        "Sam Altman",
+        "Legal Trial",
+        "OpenAI"
       ],
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
-      "published": "2026-05-11T19:05:01-04:00",
-      "fetched_at": "2026-05-12T14:39:27.317908+00:00"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
+      "published": "2026-05-12T19:23:14-04:00",
+      "fetched_at": "2026-05-13T03:53:48.356956+00:00"
     },
     {
       "id": 2,
       "source": "The Verge",
-      "title": "Here&#8217;s what Mira Murati&#8217;s AI company is up to",
-      "summary": "Mira Murati's AI company Thinking Machines announced 'interaction models' that process audio, video, and text in real-time for natural human-AI collaboration.",
+      "title": "Meta won’t let you block its AI account on Threads",
+      "summary": "Meta introduced a Threads AI feature allowing users to tag a Meta AI account for answers, similar to X's Grok. However, users cannot block the AI account, causing backlash.",
       "tags": [
-        "AI",
-        "Mira Murati",
-        "Thinking Machines"
+        "Meta AI",
+        "Threads",
+        "User Control"
       ],
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
-      "published": "2026-05-11T18:19:15-04:00",
-      "fetched_at": "2026-05-12T14:39:28.627896+00:00"
+      "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+      "published": "2026-05-12T16:35:23-04:00",
+      "fetched_at": "2026-05-13T03:53:49.789978+00:00"
     },
     {
       "id": 3,
       "source": "The Verge",
-      "title": "Google stopped a zero-day hack that it says was developed with AI",
-      "summary": "Google detected and stopped a zero-day exploit created with AI assistance by cybercriminals targeting an open-source administration tool to bypass two-factor authentication in mass attacks.",
+      "title": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
+      "summary": "Sam Altman testified that Elon Musk caused significant damage to OpenAI's culture by demanding aggressive researcher rankings and layoffs, a management style incompatible with the startup's needs.",
       "tags": [
-        "zero-day",
-        "AI security",
-        "cybercrime"
+        "OpenAI",
+        "Elon Musk",
+        "Lawsuit"
       ],
-      "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
-      "published": "2026-05-11T12:09:42-04:00",
-      "fetched_at": "2026-05-12T14:39:30.173884+00:00"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
+      "published": "2026-05-12T13:34:09-04:00",
+      "fetched_at": "2026-05-13T03:53:51.247899+00:00"
     },
     {
       "id": 4,
       "source": "TechCrunch",
-      "title": "Dessn raises $6M for its production focused design tool",
-      "summary": "Dessn, an AI-powered design tool startup, raised $6M in funding. The platform integrates directly with production codebases to streamline the design-to-development process.",
+      "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+      "summary": "Medicare's new ACCESS payment model enables AI agents to monitor patients between visits, coordinate care, and manage medications—filling a gap in healthcare payment systems.",
       "tags": [
-        "AI Design",
-        "Design Tools",
-        "Funding"
+        "Medicare",
+        "AI Healthcare",
+        "Payment Models"
       ],
-      "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
-      "published": "Tue, 12 May 2026 13:00:00 +0000",
-      "fetched_at": "2026-05-12T14:39:31.841669+00:00"
+      "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "published": "Wed, 13 May 2026 00:26:48 +0000",
+      "fetched_at": "2026-05-13T03:53:52.460369+00:00"
     },
     {
       "id": 5,
       "source": "TechCrunch",
-      "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
-      "summary": "AI voice startup Vapi reached $500M valuation after Amazon Ring selected it over 40 competitors. The company's enterprise business grew 10-fold since early 2025 as companies adopt AI agents for customer support and sales.",
+      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+      "summary": "Altman testified that Musk's desire to control OpenAI's for-profit structure concerned him, as the organization aimed to prevent advanced AI from being controlled by any single person or heir.",
       "tags": [
-        "AI voice",
-        "Vapi funding",
-        "Amazon Ring"
+        "OpenAI",
+        "Musk",
+        "AI governance"
       ],
-      "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
-      "published": "Tue, 12 May 2026 11:30:00 +0000",
-      "fetched_at": "2026-05-12T14:39:33.394299+00:00"
+      "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+      "published": "Tue, 12 May 2026 18:05:15 +0000",
+      "fetched_at": "2026-05-13T03:53:53.758101+00:00"
     },
     {
       "id": 6,
       "source": "TechCrunch",
-      "title": "Thinking Machines wants to build an AI that actually listens while it talks",
-      "summary": "Thinking Machines is developing an AI model that processes input and generates responses simultaneously, mimicking natural conversation like phone calls rather than sequential text exchanges.",
+      "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+      "summary": "Anthropic warns investors that secondary platforms selling its shares are unauthorized and invalid. The company states any stock transfers through these firms won't be recognized.",
       "tags": [
-        "AI conversation",
-        "real-time processing",
-        "interactive models"
+        "Anthropic",
+        "Stock Security",
+        "Investor Warning"
       ],
-      "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
-      "published": "Tue, 12 May 2026 04:52:35 +0000",
-      "fetched_at": "2026-05-12T14:39:34.803438+00:00"
+      "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+      "published": "Tue, 12 May 2026 17:36:34 +0000",
+      "fetched_at": "2026-05-13T03:53:55.088607+00:00"
     },
     {
       "id": 7,
       "source": "VentureBeat",
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "summary": "Railway, a cloud platform with 2 million developers, raised $100 million Series B to build AI-native infrastructure challenging AWS and Google Cloud by addressing legacy platform limitations.",
+      "summary": "Railway, a cloud platform with 2 million developers, secured $100 million in Series B funding to build AI-native infrastructure competing against AWS and Google Cloud.",
       "tags": [
-        "cloud-infrastructure",
-        "AI",
-        "funding"
+        "AI Infrastructure",
+        "Cloud Computing",
+        "Startup Funding"
       ],
       "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
       "published": "Thu, 22 Jan 2026 14:00:00 GMT",
-      "fetched_at": "2026-05-12T14:39:36.760354+00:00"
+      "fetched_at": "2026-05-13T03:53:56.837976+00:00"
     },
     {
       "id": 8,
       "source": "VentureBeat",
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "summary": "Claude Code charges $20-$200 monthly for AI coding features, while Goose offers identical functionality as a free open-source alternative that runs locally without subscription fees.",
+      "summary": "Claude Code's $20-$200 monthly pricing sparks backlash among developers, while Goose offers identical AI coding capabilities as a free open-source alternative that runs locally without subscription fees.",
       "tags": [
         "AI coding",
         "pricing",
@@ -112,27 +112,27 @@
       ],
       "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
       "published": "Mon, 19 Jan 2026 14:00:00 GMT",
-      "fetched_at": "2026-05-12T14:39:38.371899+00:00"
+      "fetched_at": "2026-05-13T03:53:58.165838+00:00"
     },
     {
       "id": 9,
       "source": "VentureBeat",
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "summary": "Listen Labs raised $69M Series B funding after a viral billboard hiring campaign featuring AI tokens and a coding challenge. The unconventional recruitment stunt in San Francisco attracted thousands of engineers and helped the startup scale.",
+      "summary": "Listen Labs raised $69M in Series B funding after a viral billboard hiring campaign featuring AI tokens and coding challenges. The creative recruitment stunt generated thousands of applicants and successfully hired engineers.",
       "tags": [
-        "AI recruiting",
-        "viral marketing",
-        "Series B funding"
+        "AI hiring",
+        "fundraising",
+        "marketing"
       ],
       "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
       "published": "Fri, 16 Jan 2026 14:01:00 GMT",
-      "fetched_at": "2026-05-12T14:39:39.789291+00:00"
+      "fetched_at": "2026-05-13T03:53:59.377322+00:00"
     },
     {
       "id": 10,
       "source": "Ars Technica",
       "title": "Linux bitten by second severe vulnerability in as many weeks",
-      "summary": "Linux faces a second severe vulnerability in weeks called Dirty Frag, allowing low-privilege users and containers to gain root access. Exploit code leaked online, and Microsoft reports active exploitation attempts across Linux distributions.",
+      "summary": "Linux faces a second critical vulnerability in weeks called Dirty Frag, allowing low-privilege users and containers to gain root access. Exploit code is publicly available and actively exploited across all Linux distributions.",
       "tags": [
         "Linux Security",
         "Vulnerability",
@@ -140,97 +140,97 @@
       ],
       "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
       "published": "Mon, 11 May 2026 22:28:19 +0000",
-      "fetched_at": "2026-05-12T14:39:41.977130+00:00"
+      "fetched_at": "2026-05-13T03:54:01.062318+00:00"
     },
     {
       "id": 11,
       "source": "Ars Technica",
       "title": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
-      "summary": "A cyberattack disrupted Canvas learning platform during US finals, forcing schools offline. Instructure restored service Friday after identifying unauthorized network activity and data exposure including usernames and emails.",
+      "summary": "A cyberattack disrupted Canvas learning platform during US finals week, forcing Instructure to take it offline. The platform was restored Friday; user data including names and emails were accessed, but passwords remained secure.",
       "tags": [
         "cyberattack",
         "education",
-        "ransomware"
+        "data breach"
       ],
       "url": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",
       "published": "Fri, 08 May 2026 18:33:48 +0000",
-      "fetched_at": "2026-05-12T14:39:43.664814+00:00"
+      "fetched_at": "2026-05-13T03:54:02.661951+00:00"
     },
     {
       "id": 12,
       "source": "Ars Technica",
       "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
-      "summary": "Mozilla's AI vulnerability detection tool Mythos found 271 Firefox security flaws with minimal false positives over two months, demonstrating significant progress in AI-assisted security testing despite initial skepticism.",
+      "summary": "Mozilla's AI vulnerability detection tool Mythos identified 271 Firefox security flaws with minimal false positives over two months. The breakthrough demonstrates AI's potential in software security, though Mozilla acknowledges previous hype and provides detailed methodology.",
       "tags": [
-        "AI security",
-        "vulnerability detection",
-        "Firefox"
+        "AI-Security",
+        "Vulnerability-Detection",
+        "Mozilla"
       ],
       "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
       "published": "Thu, 07 May 2026 19:18:16 +0000",
-      "fetched_at": "2026-05-12T14:39:45.066153+00:00"
+      "fetched_at": "2026-05-13T03:54:04.253617+00:00"
     },
     {
       "id": 13,
       "source": "MIT Tech Review",
-      "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
-      "summary": "Nobel-winning economist Daron Acemoglu argues AI will provide limited productivity gains and won't eliminate human work, a view supported by recent data despite industry optimism.",
+      "title": "World Models: 10 Things That Matter in AI Right Now",
+      "summary": "World models are an emerging AI area gaining significant attention for their potential to help AI systems better understand and reason about the real world. MIT Technology Review explores this technology's importance and implications for future AI systems.",
       "tags": [
-        "AI",
-        "economics",
-        "productivity"
+        "world models",
+        "AI reasoning",
+        "emerging technology"
       ],
-      "url": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
-      "published": "Tue, 12 May 2026 12:10:00 +0000",
-      "fetched_at": "2026-05-12T14:39:47.195456+00:00"
+      "url": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
+      "published": "Tue, 12 May 2026 16:22:15 +0000",
+      "fetched_at": "2026-05-13T03:54:05.788017+00:00"
     },
     {
       "id": 14,
       "source": "MIT Tech Review",
-      "title": "Three things in AI to watch, according to a Nobel-winning economist",
-      "summary": "Nobel Prize-winning economist Daron Acemoglu challenges Silicon Valley's AI hype, arguing AI will only modestly boost US productivity and won't eliminate human work, contrary to tech CEO predictions.",
+      "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
+      "summary": "Nobel-winning economist Daron Acemoglu argues AI will provide modest productivity gains and won't eliminate human work, a prediction supported by recent data despite tech industry skepticism.",
       "tags": [
-        "AI productivity",
-        "jobs impact",
-        "economics"
+        "AI",
+        "Economics",
+        "Nobel Prize"
       ],
-      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
-      "published": "Mon, 11 May 2026 17:35:12 +0000",
-      "fetched_at": "2026-05-12T14:39:48.868646+00:00"
+      "url": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
+      "published": "Tue, 12 May 2026 12:10:00 +0000",
+      "fetched_at": "2026-05-13T03:54:07.533407+00:00"
     },
     {
       "id": 15,
       "source": "MIT Tech Review",
-      "title": "Fostering breakthrough AI innovation through customer-back engineering",
-      "summary": "Organizations waste digital investments by starting with technology instead of customer needs. Successful AI implementation requires 'customer-back engineering' that prioritizes customer problems first.",
+      "title": "Three things in AI to watch, according to a Nobel-winning economist",
+      "summary": "Nobel economist Daron Acemoglu argues AI will have modest productivity gains and won't eliminate white-collar work, contradicting tech industry predictions of massive job displacement.",
       "tags": [
-        "AI Strategy",
-        "Digital Transformation",
-        "Customer-Centric Design"
+        "AI productivity",
+        "job displacement",
+        "economics"
       ],
-      "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
-      "published": "Mon, 11 May 2026 13:33:06 +0000",
-      "fetched_at": "2026-05-12T14:39:50.322032+00:00"
+      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+      "published": "Mon, 11 May 2026 17:35:12 +0000",
+      "fetched_at": "2026-05-13T03:54:08.858608+00:00"
     },
     {
       "id": 16,
       "source": "Hugging Face",
       "title": "Building Blocks for Foundation Model Training and Inference on AWS",
-      "summary": "AWS introduces building blocks for training and deploying foundation models, enabling developers to more efficiently build and run large-scale AI systems on their cloud infrastructure.",
+      "summary": "AWS provides building blocks for training and deploying foundation models, offering infrastructure and tools to streamline the development process for large-scale AI models.",
       "tags": [
         "AWS",
-        "Foundation Models",
-        "AI Infrastructure"
+        "foundation models",
+        "AI infrastructure"
       ],
       "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
       "published": "Mon, 11 May 2026 23:18:26 GMT",
-      "fetched_at": "2026-05-12T14:39:52.333022+00:00"
+      "fetched_at": "2026-05-13T03:54:10.584360+00:00"
     },
     {
       "id": 17,
       "source": "Hugging Face",
       "title": "EMO: Pretraining mixture of experts for emergent modularity",
-      "summary": "EMO introduces a pretraining approach for mixture of experts models that promotes emergent modularity. This technique enables specialized expert networks that improve efficiency and performance in large-scale AI systems.",
+      "summary": "EMO introduces a pretraining approach using mixture of experts to develop emergent modularity in AI models. This technique enables specialized neural modules to self-organize during training for improved efficiency.",
       "tags": [
         "mixture-of-experts",
         "modularity",
@@ -238,13 +238,13 @@
       ],
       "url": "https://huggingface.co/blog/allenai/emo",
       "published": "Fri, 08 May 2026 16:03:50 GMT",
-      "fetched_at": "2026-05-12T14:39:53.995201+00:00"
+      "fetched_at": "2026-05-13T03:54:12.076838+00:00"
     },
     {
       "id": 18,
       "source": "Hugging Face",
       "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-      "summary": "vLLM advances from V0 to V1 by prioritizing correctness in reinforcement learning before applying corrections. The update emphasizes accuracy improvements and proper validation protocols.",
+      "summary": "vLLM advances from V0 to V1 by prioritizing correctness in reinforcement learning before implementing corrections. The update focuses on establishing accurate foundational models for RL systems.",
       "tags": [
         "vLLM",
         "reinforcement learning",
@@ -252,55 +252,55 @@
       ],
       "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
       "published": "Wed, 06 May 2026 19:06:55 GMT",
-      "fetched_at": "2026-05-12T14:39:55.589497+00:00"
+      "fetched_at": "2026-05-13T03:54:13.544531+00:00"
     },
     {
       "id": 19,
       "source": "Microsoft AI",
       "title": "A conversation with Kevin Scott: What’s next in AI",
-      "summary": "Kevin Scott discusses the future direction of AI technology and its developments. The conversation explores upcoming trends and innovations in the artificial intelligence field.",
+      "summary": "Kevin Scott discusses the future direction of AI technology and upcoming developments in the field. The conversation explores what's next for artificial intelligence advancement.",
       "tags": [
-        "AI future",
-        "Kevin Scott",
-        "technology trends"
+        "AI",
+        "future",
+        "technology"
       ],
       "url": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
       "published": "Tue, 06 Dec 2022 17:29:09 +0000",
-      "fetched_at": "2026-05-12T14:39:57.241047+00:00"
+      "fetched_at": "2026-05-13T03:54:14.847326+00:00"
     },
     {
       "id": 20,
       "source": "Microsoft AI",
       "title": "From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative",
-      "summary": "Brands like Hot Wheels leverage Microsoft AI tools to enhance productivity and creativity in content creation and handling. Microsoft AI enables businesses to streamline workflows and boost imaginative output.",
+      "summary": "Brands like Hot Wheels leverage Microsoft AI tools to enhance productivity and creativity in content creation and marketing operations.",
       "tags": [
         "Microsoft AI",
-        "Brand Content",
-        "Productivity"
+        "Brand Innovation",
+        "Content Creation"
       ],
       "url": "https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/",
       "published": "Wed, 12 Oct 2022 16:00:02 +0000",
-      "fetched_at": "2026-05-12T14:39:58.724782+00:00"
+      "fetched_at": "2026-05-13T03:54:16.193035+00:00"
     },
     {
       "id": 21,
       "source": "Microsoft AI",
       "title": "Microsoft open sources its ‘farm of the future’ toolkit",
-      "summary": "Microsoft released open-source toolkit for agricultural innovation, promoting sustainable farming practices through AI technology and digital tools.",
+      "summary": "Microsoft released its 'farm of the future' toolkit as open source, providing tools to advance agricultural technology and sustainability through AI-driven farming solutions.",
       "tags": [
         "agriculture",
         "open-source",
-        "sustainability"
+        "AI"
       ],
       "url": "https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/",
       "published": "Thu, 06 Oct 2022 14:58:15 +0000",
-      "fetched_at": "2026-05-12T14:40:00.082984+00:00"
+      "fetched_at": "2026-05-13T03:54:17.561813+00:00"
     },
     {
       "id": 22,
       "source": "Google AI",
       "title": "The new AI-powered Google Finance is expanding to Europe.",
-      "summary": "AI-powered Google Finance is expanding to Europe this week with full local language support and enhanced capabilities. The reimagined platform offers powerful financial tools to European users.",
+      "summary": "Google Finance's AI-powered platform is launching across Europe with full local language support, offering enhanced financial capabilities to users.",
       "tags": [
         "Google Finance",
         "AI",
@@ -308,27 +308,27 @@
       ],
       "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
       "published": "Mon, 11 May 2026 06:00:00 +0000",
-      "fetched_at": "2026-05-12T14:40:02.210747+00:00"
+      "fetched_at": "2026-05-13T03:54:19.247995+00:00"
     },
     {
       "id": 23,
       "source": "Google AI",
       "title": "See what happens when creative legends use AI to make ads for small businesses.",
-      "summary": "Google launches The Small Brief, partnering creative advertising legends to use AI for crafting ads for small businesses they support, showcasing innovative approaches to local business promotion.",
+      "summary": "Google launches The Small Brief, pairing renowned advertising creatives with small businesses to create innovative AI-powered ads. The initiative aims to showcase how creative expertise combined with AI tools can elevate local businesses.",
       "tags": [
         "AI advertising",
         "small business",
-        "creative collaboration"
+        "creative tools"
       ],
       "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
       "published": "Fri, 08 May 2026 15:00:00 +0000",
-      "fetched_at": "2026-05-12T14:40:03.670224+00:00"
+      "fetched_at": "2026-05-13T03:54:20.748866+00:00"
     },
     {
       "id": 24,
       "source": "Google AI",
       "title": "5 gardening tips you can try right in Search",
-      "summary": "Google's AI Mode, Search Live, and Shopping features offer gardening tips to help plants thrive. The article highlights top ways to use these tools for gardening success.",
+      "summary": "Google's AI Mode, Search Live, and Shopping features offer five practical gardening tips to help plants thrive. The tools provide accessible resources for improving gardening success.",
       "tags": [
         "gardening",
         "Google Search",
@@ -336,41 +336,41 @@
       ],
       "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
       "published": "Wed, 06 May 2026 16:00:00 +0000",
-      "fetched_at": "2026-05-12T14:40:04.955692+00:00"
+      "fetched_at": "2026-05-13T03:54:22.017470+00:00"
     },
     {
       "id": 25,
       "source": "DeepMind",
       "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
-      "summary": "AlphaEvolve, powered by Gemini, is a coding agent scaling impact across business, infrastructure, and science through advanced algorithms.",
+      "summary": "AlphaEvolve, a Gemini-powered coding agent, scales impact across business, infrastructure, and science domains using advanced algorithms.",
       "tags": [
         "AI",
         "Gemini",
-        "Coding"
+        "AlphaEvolve"
       ],
       "url": "https://deepmind.google/blog/alphaevolve-impact/",
       "published": "Wed, 06 May 2026 10:43:49 +0000",
-      "fetched_at": "2026-05-12T14:40:06.971656+00:00"
+      "fetched_at": "2026-05-13T03:54:23.761505+00:00"
     },
     {
       "id": 26,
       "source": "DeepMind",
       "title": "Enabling a new model for healthcare with AI co-clinician",
-      "summary": "Researchers are developing an AI co-clinician to augment healthcare delivery. The initiative explores how artificial intelligence can support and enhance clinical decision-making.",
+      "summary": "Researchers are developing an AI co-clinician to augment healthcare delivery. This new model aims to enhance patient care through AI collaboration with medical professionals.",
       "tags": [
         "AI healthcare",
         "co-clinician",
-        "medical AI"
+        "augmented medicine"
       ],
       "url": "https://deepmind.google/blog/ai-co-clinician/",
       "published": "Thu, 30 Apr 2026 12:14:15 +0000",
-      "fetched_at": "2026-05-12T14:40:08.751270+00:00"
+      "fetched_at": "2026-05-13T03:54:25.018744+00:00"
     },
     {
       "id": 27,
       "source": "DeepMind",
       "title": "Announcing our partnership with the Republic of Korea",
-      "summary": "Google DeepMind partners with the Republic of Korea to accelerate scientific breakthroughs using advanced AI models.",
+      "summary": "Google DeepMind partners with South Korea to advance scientific discoveries through frontier AI models, accelerating research breakthroughs.",
       "tags": [
         "AI partnership",
         "scientific research",
@@ -378,27 +378,27 @@
       ],
       "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
       "published": "Mon, 27 Apr 2026 07:00:06 +0000",
-      "fetched_at": "2026-05-12T14:40:10.036780+00:00"
+      "fetched_at": "2026-05-13T03:54:26.183208+00:00"
     },
     {
       "id": 28,
       "source": "Last Week in AI",
       "title": "Last Week in AI #340 - OpenAI vs Musk + Microsoft, DeepSeek v4, Vision Banana",
-      "summary": "Elon Musk testified in his lawsuit against OpenAI and Sam Altman, claiming the company misappropriated charity resources. The trial revealed evidence including settlement discussions and allegations that xAI used OpenAI models for training.",
+      "summary": "Elon Musk's testimony dominated the first week of his trial against Sam Altman, with disputes over OpenAI's charitable origins and allegations of model theft between Musk's xAI and OpenAI.",
       "tags": [
         "OpenAI",
-        "Legal",
-        "AI-Companies"
+        "Legal Battle",
+        "AI Models"
       ],
       "url": "https://lastweekin.ai/p/last-week-in-ai-340-openai-vs-musk",
       "published": "Tue, 05 May 2026 08:30:35 GMT",
-      "fetched_at": "2026-05-12T14:40:11.901712+00:00"
+      "fetched_at": "2026-05-13T03:54:27.984806+00:00"
     },
     {
       "id": 29,
       "source": "Last Week in AI",
       "title": "LWiAI Podcast #243 - GPT 5.5, DeepSeek V4, AI safety sabotage",
-      "summary": "OpenAI released GPT-5.5 with coding improvements and safety monitoring features at higher pricing. xAI launched Grok Voice Think Fast 1.0 for real-time voice agents with major benchmark improvements.",
+      "summary": "The podcast discusses OpenAI's GPT-5.5 release with coding improvements and safety testing, xAI's Grok Voice Think Fast 1.0 for real-time voice agents, and concerns about AI safety sabotage.",
       "tags": [
         "GPT-5.5",
         "AI Safety",
@@ -406,27 +406,41 @@
       ],
       "url": "https://lastweekin.ai/p/lwiai-podcast-243-gpt-55-deepseek",
       "published": "Mon, 04 May 2026 07:54:06 GMT",
-      "fetched_at": "2026-05-12T14:40:13.342239+00:00"
+      "fetched_at": "2026-05-13T03:54:29.478911+00:00"
     },
     {
       "id": 30,
       "source": "Last Week in AI",
       "title": "LWiAI Podcast #242 - ChatGPT Images 2.0, Qwen 3.6 Max, Kimi-K2.6",
-      "summary": "LWiAI Podcast #242 discusses major AI developments including OpenAI's new ChatGPT image model with improved text accuracy, Qwen 3.6 Max, and Kimi-K2.6. The episode covers recent breakthroughs in image generation and Chinese AI models.",
+      "summary": "LWiAI Podcast #242 discusses major AI developments including OpenAI's improved ChatGPT image model with better text rendering, Qwen 3.6 Max, and Kimi-K2.6. The episode covers recent advancements in multimodal AI capabilities.",
       "tags": [
         "ChatGPT",
-        "Image Generation",
-        "AI Models"
+        "image-generation",
+        "AI-models"
       ],
       "url": "https://lastweekin.ai/p/lwiai-podcast-242-chatgpt-images",
       "published": "Thu, 30 Apr 2026 07:14:45 GMT",
-      "fetched_at": "2026-05-12T14:40:15.145857+00:00"
+      "fetched_at": "2026-05-13T03:54:31.083301+00:00"
     },
     {
       "id": 31,
       "source": "AI News",
+      "title": "JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability",
+      "summary": "JBS Dev's Joe Rose debunks the myth that perfect data is required for AI workloads, noting modern tools effectively handle imperfect data. LLMs can understand incomplete prompts, making it practical to begin AI projects without extensive data preparation.",
+      "tags": [
+        "AI data quality",
+        "generative AI",
+        "LLM capabilities"
+      ],
+      "url": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
+      "published": "Tue, 12 May 2026 15:37:43 +0000",
+      "fetched_at": "2026-05-13T03:54:33.691708+00:00"
+    },
+    {
+      "id": 32,
+      "source": "AI News",
       "title": "Hugging Face hosted malicious software masquerading as OpenAI release",
-      "summary": "A malicious Hugging Face repository impersonating OpenAI's Privacy Filter delivered infostealer malware to Windows machines, accumulating approximately 244,000 downloads before removal.",
+      "summary": "A malicious Hugging Face repository impersonating OpenAI's Privacy Filter delivered infostealer malware to Windows machines, recording approximately 244,000 downloads before removal.",
       "tags": [
         "malware",
         "supply chain security",
@@ -434,13 +448,13 @@
       ],
       "url": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
       "published": "Tue, 12 May 2026 13:52:00 +0000",
-      "fetched_at": "2026-05-12T14:40:17.525621+00:00"
+      "fetched_at": "2026-05-13T03:54:35.126721+00:00"
     },
     {
-      "id": 32,
+      "id": 33,
       "source": "AI News",
       "title": "Laserfiche unveils AI agents for natural language workflows",
-      "summary": "Laserfiche released AI agents that execute tasks through natural language prompts while maintaining security and compliance. These intelligent assistants automate workflows and reduce manual work by leveraging generative LLM reasoning models.",
+      "summary": "Laserfiche released AI agents that perform tasks through natural language prompts while maintaining security and compliance. These intelligent assistants automate workflows, reducing manual work and operational costs.",
       "tags": [
         "AI Agents",
         "Content Management",
@@ -448,41 +462,27 @@
       ],
       "url": "https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/",
       "published": "Tue, 12 May 2026 08:57:13 +0000",
-      "fetched_at": "2026-05-12T14:40:19.115076+00:00"
-    },
-    {
-      "id": 33,
-      "source": "AI News",
-      "title": "AI automates HR compliance, except for the area tech companies need",
-      "summary": "AI automates most HR compliance tasks, but UK tech companies struggle with manual sponsor licence management for international talent, creating a paradox where automation leaders cannot automate their own immigration compliance.",
-      "tags": [
-        "AI compliance",
-        "immigration sponsorship",
-        "tech hiring"
-      ],
-      "url": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/",
-      "published": "Mon, 11 May 2026 14:34:05 +0000",
-      "fetched_at": "2026-05-12T14:40:20.826361+00:00"
+      "fetched_at": "2026-05-13T03:54:36.904054+00:00"
     },
     {
       "id": 34,
       "source": "Synced Review",
       "title": "Which Agent Causes Task Failures and When?Researchers from PSU and Duke explores automated failure attribution of LLM Multi-Agent Systems",
-      "summary": "Researchers from PSU and Duke developed methods to automatically identify which agent causes task failures in LLM multi-agent systems and when failures occur, addressing debugging challenges in collaborative AI systems.",
+      "summary": "Researchers from PSU and Duke developed methods to identify which agent causes task failures in LLM multi-agent systems and when failures occur, improving debugging and reliability of collaborative AI systems.",
       "tags": [
-        "LLM agents",
+        "multi-agent systems",
         "failure attribution",
-        "multi-agent systems"
+        "LLM debugging"
       ],
       "url": "https://syncedreview.com/2025/08/14/which-agent-causes-task-failures-and-whenresearchers-from-psu-and-duke-explores-automated-failure-attribution-of-llm-multi-agent-systems/",
       "published": "Thu, 14 Aug 2025 06:31:20 +0000",
-      "fetched_at": "2026-05-12T14:40:22.684615+00:00"
+      "fetched_at": "2026-05-13T03:54:38.572436+00:00"
     },
     {
       "id": 35,
       "source": "Synced Review",
       "title": "ByteDance Introduces Astra: A Dual-Model Architecture for Autonomous Robot Navigation",
-      "summary": "ByteDance introduced Astra, a dual-model architecture for autonomous robot navigation that addresses key challenges in complex indoor environments by answering localization and pathfinding questions.",
+      "summary": "ByteDance introduced Astra, a dual-model architecture for robot navigation that addresses core challenges of localization and path planning in complex indoor environments, overcoming limitations of traditional rule-based systems.",
       "tags": [
         "robotics",
         "AI navigation",
@@ -490,7 +490,7 @@
       ],
       "url": "https://syncedreview.com/2025/06/24/bytedance-introduces-astra-a-dual-model-architecture-for-autonomous-robot-navigation/",
       "published": "Tue, 24 Jun 2025 09:17:01 +0000",
-      "fetched_at": "2026-05-12T14:40:24.088657+00:00"
+      "fetched_at": "2026-05-13T03:54:39.923519+00:00"
     },
     {
       "id": 36,
@@ -498,61 +498,89 @@
       "title": "MIT Researchers Unveil “SEAL”: A New Step Towards Self-Improving AI",
       "summary": "MIT researchers introduced SEAL, a framework enabling large language models to self-improve by generating training data through self-editing and updating their own weights via reinforcement learning.",
       "tags": [
-        "self-improving AI",
-        "LLMs",
-        "MIT research"
+        "self-improving-AI",
+        "LLM-research",
+        "MIT"
       ],
       "url": "https://syncedreview.com/2025/06/16/mit-researchers-unveil-seal-a-new-step-towards-self-improving-ai/",
       "published": "Mon, 16 Jun 2025 12:58:37 +0000",
-      "fetched_at": "2026-05-12T14:40:25.557889+00:00"
+      "fetched_at": "2026-05-13T03:54:41.279727+00:00"
     },
     {
       "id": 37,
       "source": "TechTalks",
       "title": "Google brings multi-token prediction Gemma 4 LLMs",
-      "summary": "Google's Gemma 4 introduces multi-token prediction and DFlash technology, achieving 3-6x faster throughput for local language models through community-driven optimization.",
+      "summary": "Google's Gemma 4 introduces multi-token prediction and DFlash technology, achieving 3-6x throughput improvements for local LLMs through community-driven development.",
       "tags": [
         "Gemma 4",
         "multi-token prediction",
-        "LLM performance"
+        "LLM optimization"
       ],
       "url": "https://bdtechtalks.com/2026/05/11/google-gemma-4-multi-token-prediction/?utm_source=rss&utm_medium=rss&utm_campaign=google-gemma-4-multi-token-prediction",
       "published": "Mon, 11 May 2026 15:19:59 +0000",
-      "fetched_at": "2026-05-12T14:40:30.423225+00:00"
+      "fetched_at": "2026-05-13T03:54:42.742018+00:00"
     },
     {
       "id": 38,
       "source": "TechTalks",
       "title": "How Memory Sparse Attention scales LLM memory to 100 million tokens",
-      "summary": "Memory Sparse Attention enables LLMs to process 100 million tokens while maintaining accuracy, dramatically expanding context window capabilities.",
+      "summary": "Memory Sparse Attention enables large language models to handle 100 million tokens while maintaining accuracy, dramatically expanding context window capabilities.",
       "tags": [
         "LLM",
-        "attention mechanisms",
-        "context scaling"
+        "Memory Optimization",
+        "Attention Mechanism"
       ],
       "url": "https://bdtechtalks.com/2026/05/04/memory-sparse-attention/?utm_source=rss&utm_medium=rss&utm_campaign=memory-sparse-attention",
       "published": "Mon, 04 May 2026 20:14:39 +0000",
-      "fetched_at": "2026-05-12T14:40:31.712157+00:00"
+      "fetched_at": "2026-05-13T03:54:44.034545+00:00"
     },
     {
       "id": 39,
       "source": "TechTalks",
       "title": "Claude Code is leaking API keys into public package registries",
-      "summary": "A study reveals that Claude Code inadvertently leaks sensitive API keys to public code repositories and package registries, posing security risks.",
+      "summary": "A study reveals that Claude Code and similar AI coding assistants are leaking sensitive API keys into public code repositories and package registries.",
       "tags": [
-        "API-Security",
-        "Claude-Code",
-        "Data-Leakage"
+        "security",
+        "api-keys",
+        "ai-coding"
       ],
       "url": "https://bdtechtalks.com/2026/04/27/claude-code-api-token-leak/?utm_source=rss&utm_medium=rss&utm_campaign=claude-code-api-token-leak",
       "published": "Mon, 27 Apr 2026 13:00:00 +0000",
-      "fetched_at": "2026-05-12T14:40:33.223611+00:00"
+      "fetched_at": "2026-05-13T03:54:45.487176+00:00"
     },
     {
       "id": 40,
       "source": "MarkTechPost",
+      "title": "Build a Hybrid-Memory Autonomous Agent with Modular Architecture and Tool Dispatch Using OpenAI",
+      "summary": "Tutorial on building a hybrid-memory autonomous agent using OpenAI with semantic vector search, keyword retrieval, and modular tool dispatch. System enables agents to reason, remember, and act autonomously with clean architecture design.",
+      "tags": [
+        "autonomous-agents",
+        "hybrid-memory",
+        "openai"
+      ],
+      "url": "https://www.marktechpost.com/2026/05/12/build-a-hybrid-memory-autonomous-agent-with-modular-architecture-and-tool-dispatch-using-openai/",
+      "published": "Tue, 12 May 2026 21:55:57 +0000",
+      "fetched_at": "2026-05-13T03:54:47.926969+00:00"
+    },
+    {
+      "id": 41,
+      "source": "MarkTechPost",
+      "title": "Meet AntAngelMed: A 103B-Parameter Open-Source Medical Language Model Built on a 1/32 Activation-Ratio MoE Architecture",
+      "summary": "Chinese researchers released AntAngelMed, a 103-billion-parameter open-source medical language model using a Mixture-of-Experts architecture that activates only 6.1 billion parameters during inference.",
+      "tags": [
+        "medical-AI",
+        "open-source",
+        "MoE-architecture"
+      ],
+      "url": "https://www.marktechpost.com/2026/05/12/meet-antangelmed-a-103b-parameter-open-source-medical-language-model-built-on-a-1-32-activation-ratio-moe-architecture/",
+      "published": "Tue, 12 May 2026 21:21:47 +0000",
+      "fetched_at": "2026-05-13T03:54:49.219129+00:00"
+    },
+    {
+      "id": 42,
+      "source": "MarkTechPost",
       "title": "Tilde Research Introduces Aurora: A Leverage-Aware Optimizer That Fixes a Hidden Neuron Death Problem in Muon",
-      "summary": "Tilde Research introduced Aurora, a new optimizer that fixes a neuron death problem in the popular Muon optimizer. Aurora achieves state-of-the-art results on nanoGPT benchmarks with improved neural network training.",
+      "summary": "Tilde Research introduced Aurora, a new neural network optimizer that fixes a neuron death problem in the popular Muon optimizer. Aurora achieves state-of-the-art results on benchmarks with improved performance.",
       "tags": [
         "optimizer",
         "neural-networks",
@@ -560,83 +588,55 @@
       ],
       "url": "https://www.marktechpost.com/2026/05/12/tilde-research-introduces-aurora-a-leverage-aware-optimizer-that-fixes-a-hidden-neuron-death-problem-in-muon/",
       "published": "Tue, 12 May 2026 08:07:28 +0000",
-      "fetched_at": "2026-05-12T14:40:35.056880+00:00"
-    },
-    {
-      "id": 41,
-      "source": "MarkTechPost",
-      "title": "A Coding Implementation to Portfolio Optimization with skfolio for Building Testing, Tuning, and Comparing Modern Investment Strategies",
-      "summary": "This tutorial explores skfolio, a scikit-learn compatible library for portfolio optimization. It covers building investment strategies, from baseline portfolios to advanced techniques like mean-variance optimization, risk-parity, hierarchical clustering, and walk-forward validation.",
-      "tags": [
-        "portfolio-optimization",
-        "machine-learning",
-        "investment-strategies"
-      ],
-      "url": "https://www.marktechpost.com/2026/05/12/a-coding-implementation-to-portfolio-optimization-with-skfolio-for-building-testing-tuning-and-comparing-modern-investment-strategies/",
-      "published": "Tue, 12 May 2026 07:05:02 +0000",
-      "fetched_at": "2026-05-12T14:40:39.141088+00:00"
-    },
-    {
-      "id": 42,
-      "source": "MarkTechPost",
-      "title": "OpenAI Introduces Daybreak: A Cybersecurity Initiative That Puts Codex Security at the Center of Vulnerability Detection and Patch Validation",
-      "summary": "OpenAI launched Daybreak, a cybersecurity initiative combining frontier AI models with Codex Security to detect and patch software vulnerabilities early in development. The program shifts security from reactive to proactive, integrating vulnerability management into the development cycle.",
-      "tags": [
-        "cybersecurity",
-        "AI-powered-security",
-        "vulnerability-detection"
-      ],
-      "url": "https://www.marktechpost.com/2026/05/11/openai-introduces-daybreak-a-cybersecurity-initiative-that-puts-codex-security-at-the-center-of-vulnerability-detection-and-patch-validation/",
-      "published": "Tue, 12 May 2026 05:47:54 +0000",
-      "fetched_at": "2026-05-12T14:40:40.691021+00:00"
+      "fetched_at": "2026-05-13T03:54:50.555581+00:00"
     },
     {
       "id": 43,
       "source": "ZDNet AI",
-      "title": "I've tested dozens of power stations - here's how I'm preparing for summer blackouts",
-      "summary": "Summer blackouts are imminent. Prepare backup power solutions like portable power stations now rather than waiting for outages to occur.",
+      "title": "Fedora Kinoite vs. Silverblue: My verdict after testing both immutable Linux distros",
+      "summary": "Fedora offers two immutable Linux distros: Kinoite and Silverblue. While similar internally, they differ significantly in their external design and user experience approaches.",
       "tags": [
-        "power stations",
-        "blackouts",
-        "emergency preparedness"
+        "Fedora",
+        "immutable-linux",
+        "Kinoite-vs-Silverblue"
       ],
-      "url": "https://www.zdnet.com/article/how-to-prepare-for-summer-blackouts-calculate-power-needs/",
-      "published": "Tue, 12 May 2026 13:08:00 GMT",
-      "fetched_at": "2026-05-12T14:40:43.262346+00:00"
+      "url": "https://www.zdnet.com/article/fedora-vs-kinoite/",
+      "published": "Wed, 13 May 2026 02:30:44 GMT",
+      "fetched_at": "2026-05-13T03:54:53.241762+00:00"
     },
     {
       "id": 44,
       "source": "ZDNet AI",
-      "title": "Why business architects are poised to lead the corporate AI revolution",
-      "summary": "Business architects are positioned to lead corporate AI adoption by leveraging deep domain knowledge and elevating human skills. Their expertise enables organizations to effectively implement AI solutions aligned with business objectives.",
+      "title": "Buying a robot mower? You can safely ignore these specs (and which ones actually matter)",
+      "summary": "Robot mowers often feature overhyped specifications that consumers don't need. The article recommends which specs to ignore when choosing the right mower for your needs.",
       "tags": [
-        "business-architecture",
-        "AI-leadership",
-        "digital-transformation"
+        "robot-mowers",
+        "specs",
+        "buying-guide"
       ],
-      "url": "https://www.zdnet.com/article/why-business-architects-are-poised-to-lead-the-corporate-ai-revolution/",
-      "published": "Tue, 12 May 2026 12:08:25 GMT",
-      "fetched_at": "2026-05-12T14:40:44.939983+00:00"
+      "url": "https://www.zdnet.com/article/robot-mower-buying-guide-features-to-ignore-2026/",
+      "published": "Wed, 13 May 2026 02:00:44 GMT",
+      "fetched_at": "2026-05-13T03:54:54.540271+00:00"
     },
     {
       "id": 45,
       "source": "ZDNet AI",
-      "title": "Linux Mint vs. Elementary OS: I compared both distros, and here's my advice",
-      "summary": "Linux Mint and Elementary OS are both user-friendly Linux distributions. The best choice depends on your specific needs and starting point as a user.",
+      "title": "Chromebook vs. Googlebook: How I'm deciding which laptop to upgrade to next",
+      "summary": "Google launches a new product line while reassuring users that Chromebooks will continue. The company is expanding its laptop offerings beyond traditional Chromebook devices.",
       "tags": [
-        "Linux",
-        "Operating Systems",
-        "Comparison"
+        "Google",
+        "Chromebook",
+        "laptops"
       ],
-      "url": "https://www.zdnet.com/article/elementary-os-vs-linux-mint-which-is-right-for-you/",
-      "published": "Tue, 12 May 2026 09:00:37 GMT",
-      "fetched_at": "2026-05-12T14:40:46.229101+00:00"
+      "url": "https://www.zdnet.com/article/googlebook-vs-chromebook-differences/",
+      "published": "Wed, 13 May 2026 01:15:00 GMT",
+      "fetched_at": "2026-05-13T03:54:55.833844+00:00"
     },
     {
       "id": 46,
       "source": "ML Mastery",
       "title": "LLM Observability Tools for Reliable AI Applications",
-      "summary": "LLMs now power diverse applications including customer service bots and autonomous coding agents, requiring observability tools to ensure reliability.",
+      "summary": "LLM observability tools enable reliable AI applications as large language models increasingly power diverse use cases from customer service to autonomous coding.",
       "tags": [
         "LLM",
         "observability",
@@ -644,27 +644,27 @@
       ],
       "url": "https://machinelearningmastery.com/llm-observability-tools-for-reliable-ai-applications/",
       "published": "Tue, 12 May 2026 12:00:07 +0000",
-      "fetched_at": "2026-05-12T14:40:47.936727+00:00"
+      "fetched_at": "2026-05-13T03:54:57.644182+00:00"
     },
     {
       "id": 47,
       "source": "ML Mastery",
       "title": "Implementing Prompt Compression to Reduce Agentic Loop Costs",
-      "summary": "Prompt compression techniques reduce costs of agentic loops in production by minimizing token usage for LLM calls and API interactions where billing depends on token consumption.",
+      "summary": "Prompt compression reduces costs of agentic loops in production by minimizing token usage for LLM and API calls.",
       "tags": [
-        "prompt-compression",
-        "cost-optimization",
-        "agentic-ai"
+        "prompt compression",
+        "cost optimization",
+        "agentic AI"
       ],
       "url": "https://machinelearningmastery.com/implementing-prompt-compression-to-reduce-agentic-loop-costs/",
       "published": "Mon, 11 May 2026 12:00:43 +0000",
-      "fetched_at": "2026-05-12T14:40:49.436271+00:00"
+      "fetched_at": "2026-05-13T03:54:58.947682+00:00"
     },
     {
       "id": 48,
       "source": "ML Mastery",
       "title": "Implementing Permission-Gated Tool Calling in Python Agents",
-      "summary": "This article discusses implementing permission-gated tool calling in Python agents, enabling AI agents to move beyond passive chatbots by controlling access to specific tools and actions.",
+      "summary": "This article discusses implementing permission-gated tool calling in Python agents, enabling AI agents to control access to specific functions based on authorization rules, moving beyond basic chatbot capabilities.",
       "tags": [
         "AI agents",
         "tool calling",
@@ -672,153 +672,167 @@
       ],
       "url": "https://machinelearningmastery.com/implementing-permission-gated-tool-calling-in-python-agents/",
       "published": "Fri, 08 May 2026 12:00:34 +0000",
-      "fetched_at": "2026-05-12T14:40:51.447517+00:00"
+      "fetched_at": "2026-05-13T03:55:00.241246+00:00"
     },
     {
       "id": 49,
       "source": "Towards Data Science",
-      "title": "Proxy-Pointer Framework for Structure-Aware Enterprise Document Intelligence",
-      "summary": "A new Proxy-Pointer Framework enables structure-aware analysis of enterprise documents like contracts and research papers through hierarchical understanding and comparison capabilities.",
+      "title": "From Vibe Coding to Spec-Driven Development",
+      "summary": "LLM agents enabled rapid fitness app development from concept to completion in 4.5 hours, demonstrating a shift from intuitive coding to specification-driven development approaches.",
       "tags": [
-        "document-intelligence",
-        "enterprise-ai",
-        "nlp"
+        "LLM agents",
+        "App development",
+        "AI automation"
       ],
-      "url": "https://towardsdatascience.com/proxy-pointer-framework-for-structure-aware-enterprise-document-intelligence/",
-      "published": "Tue, 12 May 2026 13:30:00 +0000",
-      "fetched_at": "2026-05-12T14:40:53.478852+00:00"
+      "url": "https://towardsdatascience.com/from-vibe-coding-to-spec-driven-development/",
+      "published": "Tue, 12 May 2026 16:30:00 +0000",
+      "fetched_at": "2026-05-13T03:55:01.897478+00:00"
     },
     {
       "id": 50,
       "source": "Towards Data Science",
-      "title": "Your First WebAssembly Program and Web App (Written, Tested, and Deployed Entirely in the Web Browser)",
-      "summary": "Learn to compile and run C code as WebAssembly using Emscripten and GitHub Codespaces entirely in your browser without local installation.",
+      "title": "Hybrid Search and Re-Ranking in Production RAG",
+      "summary": "Hybrid search and re-ranking techniques enhance RAG systems when semantic search alone proves insufficient for retrieving relevant information in production environments.",
       "tags": [
-        "WebAssembly",
-        "Emscripten",
-        "Web Development"
+        "RAG",
+        "hybrid-search",
+        "re-ranking"
       ],
-      "url": "https://towardsdatascience.com/your-first-webassembly-program-and-web-app-written-tested-and-deployed-entirely-in-the-web-browser/",
-      "published": "Tue, 12 May 2026 12:00:00 +0000",
-      "fetched_at": "2026-05-12T14:40:55.159192+00:00"
+      "url": "https://towardsdatascience.com/hybrid-search-and-re-ranking-in-production-rag/",
+      "published": "Tue, 12 May 2026 15:00:00 +0000",
+      "fetched_at": "2026-05-13T03:55:03.094467+00:00"
     },
     {
       "id": 51,
       "source": "Towards Data Science",
-      "title": "Learning Word Vectors for Sentiment Analysis: A Python Reproduction",
-      "summary": "Tutorial on building sentiment-aware word vectors from IMDb reviews using semantic learning and SVM classification in Python.",
+      "title": "Proxy-Pointer Framework for Structure-Aware Enterprise Document Intelligence",
+      "summary": "A new proxy-pointer framework enables hierarchical understanding and comparison of enterprise documents like contracts and research papers, improving document intelligence capabilities.",
       "tags": [
-        "sentiment-analysis",
-        "word-embeddings",
-        "machine-learning"
+        "document-intelligence",
+        "AI-framework",
+        "enterprise-documents"
       ],
-      "url": "https://towardsdatascience.com/learning-word-vectors-for-sentiment-analysis-a-python-reproduction/",
-      "published": "Mon, 11 May 2026 19:44:10 +0000",
-      "fetched_at": "2026-05-12T14:40:56.393513+00:00"
+      "url": "https://towardsdatascience.com/proxy-pointer-framework-for-structure-aware-enterprise-document-intelligence/",
+      "published": "Tue, 12 May 2026 13:30:00 +0000",
+      "fetched_at": "2026-05-13T03:55:04.406080+00:00"
     },
     {
       "id": 52,
       "source": "NVIDIA Blog",
       "title": "NVIDIA and SAP Bring Trust to Specialized Agents",
-      "summary": "NVIDIA and SAP expand collaboration to deploy specialized AI agents in enterprise systems with security controls. SAP integrates NVIDIA's OpenShell runtime into its Business AI Platform for secure autonomous agent development.",
+      "summary": "NVIDIA and SAP collaborate to deploy trusted specialized AI agents in enterprise systems. SAP integrates NVIDIA's OpenShell into its Business AI Platform for secure agent development and governance.",
       "tags": [
-        "AI Agents",
-        "Enterprise Security",
-        "NVIDIA-SAP Partnership"
+        "AI agents",
+        "enterprise security",
+        "NVIDIA-SAP"
       ],
       "url": "https://blogs.nvidia.com/blog/sap-specialized-agents/",
       "published": "Tue, 12 May 2026 12:30:56 +0000",
-      "fetched_at": "2026-05-12T14:40:58.309784+00:00"
+      "fetched_at": "2026-05-13T03:55:06.550551+00:00"
     },
     {
       "id": 53,
       "source": "NVIDIA Blog",
       "title": "‘Your Career Starts at the Beginning of the AI Revolution,’ NVIDIA CEO Tells Graduates",
-      "summary": "NVIDIA CEO Jensen Huang told Carnegie Mellon graduates they're entering an extraordinary moment at the beginning of the AI revolution with unprecedented tools and opportunities to shape the future.",
+      "summary": "NVIDIA CEO Jensen Huang told Carnegie Mellon graduates they are entering an extraordinary moment at the beginning of the AI revolution with unprecedented opportunities to shape the future.",
       "tags": [
         "AI",
-        "graduates",
-        "NVIDIA"
+        "NVIDIA",
+        "Graduates"
       ],
       "url": "https://blogs.nvidia.com/blog/nvidia-ceo-carnegie-mellon-commencement-address/",
       "published": "Sun, 10 May 2026 22:00:50 +0000",
-      "fetched_at": "2026-05-12T14:40:59.911532+00:00"
+      "fetched_at": "2026-05-13T03:55:07.772798+00:00"
     },
     {
       "id": 54,
       "source": "NVIDIA Blog",
       "title": "Powering the Next American Century: US Energy Secretary Chris Wright and NVIDIA’s Ian Buck on the Genesis Mission",
-      "summary": "US Energy Secretary Chris Wright and NVIDIA's Ian Buck argue that American AI leadership depends on energy leadership, with AI helping to generate the energy it requires.",
+      "summary": "US Energy Secretary Chris Wright and NVIDIA's Ian Buck argue that American AI leadership depends on energy leadership, with AI helping to build the energy infrastructure needed for the next century.",
       "tags": [
-        "AI",
-        "Energy",
-        "Leadership"
+        "AI Energy",
+        "US Leadership",
+        "Infrastructure"
       ],
       "url": "https://blogs.nvidia.com/blog/energy-secretary-chris-wright-ian-buck/",
       "published": "Thu, 07 May 2026 19:14:38 +0000",
-      "fetched_at": "2026-05-12T14:41:01.300256+00:00"
+      "fetched_at": "2026-05-13T03:55:09.145853+00:00"
     },
     {
       "id": 55,
       "source": "AWS ML Blog",
-      "title": "Building web search-enabled agents with Strands and Exa",
-      "summary": "Exa integration with Strands Agents SDK provides AI-native web search designed for agent workflows, delivering structured content optimized for LLMs without requiring custom parsing or crawling layers.",
+      "title": "How Amazon Finance streamlines regulatory inquiries by using generative AI on AWS",
+      "summary": "Amazon Finance uses generative AI on AWS Bedrock to streamline regulatory inquiries, automating document review, information extraction, and response compilation across multiple jurisdictions at scale.",
       "tags": [
-        "AI agents",
-        "web search",
-        "LLM integration"
+        "AI",
+        "Regulatory Compliance",
+        "AWS"
       ],
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-web-search-enabled-agents-with-strands-and-exa/",
-      "published": "Mon, 11 May 2026 21:58:16 +0000",
-      "fetched_at": "2026-05-12T14:41:03.291190+00:00"
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-finance-streamlines-regulatory-inquiries-by-using-generative-ai-on-aws/",
+      "published": "Tue, 12 May 2026 16:41:33 +0000",
+      "fetched_at": "2026-05-13T03:55:10.744460+00:00"
     },
     {
       "id": 56,
       "source": "AWS ML Blog",
-      "title": "Introducing Claude Platform on AWS: Anthropic’s native platform, through your AWS account",
-      "summary": "Anthropic launches Claude Platform on AWS, enabling customers to access Claude's native platform directly through their AWS accounts without separate credentials or billing. AWS becomes the first cloud provider offering this integrated native Claude experience.",
+      "title": "Automate schema generation for intelligent document processing",
+      "summary": "A new multi-document discovery feature automates schema generation for intelligent document processing by analyzing unknown documents, clustering them by type, and generating ready-to-use schemas using visual embeddings and AI agents.",
       "tags": [
-        "Claude AI",
-        "AWS",
-        "Cloud Integration"
+        "document-processing",
+        "automation",
+        "schema-generation"
       ],
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-platform-on-aws-anthropics-native-platform-through-your-aws-account/",
-      "published": "Mon, 11 May 2026 18:43:03 +0000",
-      "fetched_at": "2026-05-12T14:41:04.992206+00:00"
+      "url": "https://aws.amazon.com/blogs/machine-learning/automate-schema-generation-for-intelligent-document-processing/",
+      "published": "Tue, 12 May 2026 15:54:08 +0000",
+      "fetched_at": "2026-05-13T03:55:11.916112+00:00"
     },
     {
       "id": 57,
       "source": "AWS ML Blog",
-      "title": "Manufacturing intelligence with Amazon Nova Multimodal Embeddings",
-      "summary": "Amazon Nova Multimodal Embeddings enables manufacturing companies to search technical documents combining text and images through a unified vector space, allowing text queries to retrieve diagrams and vice versa.",
+      "title": "Navigating EU AI Act requirements for LLM fine-tuning on Amazon SageMaker AI",
+      "summary": "The EU AI Act requires organizations fine-tuning LLMs to track computational resources in FLOPs to determine compliance. Amazon SageMaker AI provides managed infrastructure and tools to help customers monitor and meet these regulatory obligations.",
       "tags": [
-        "manufacturing",
-        "multimodal-embeddings",
-        "amazon-nova"
+        "EU AI Act",
+        "LLM Fine-tuning",
+        "Compliance"
       ],
-      "url": "https://aws.amazon.com/blogs/machine-learning/manufacturing-intelligence-with-amazon-nova-multimodal-embeddings/",
-      "published": "Mon, 11 May 2026 17:08:24 +0000",
-      "fetched_at": "2026-05-12T14:41:06.575888+00:00"
+      "url": "https://aws.amazon.com/blogs/machine-learning/navigating-eu-ai-act-requirements-for-llm-fine-tuning-on-amazon-sagemaker-ai/",
+      "published": "Tue, 12 May 2026 15:48:52 +0000",
+      "fetched_at": "2026-05-13T03:55:13.383796+00:00"
     },
     {
       "id": 58,
       "source": "NVIDIA Developer",
-      "title": "Introducing NVIDIA Fleet Intelligence for Real-Time GPU Fleet Visibility and Optimization",
-      "summary": "NVIDIA Fleet Intelligence enables real-time visibility and optimization of large GPU fleets, helping teams manage heterogeneous hardware, software stacks, and power constraints at scale.",
+      "title": "How to Eliminate Pipeline Friction in AI Model Serving",
+      "summary": "AI model deployment faces significant friction as teams encounter compatibility issues during export and production transitions. Optimizing pipelines with proper tools and formats can streamline the path from training to serving.",
       "tags": [
-        "GPU",
-        "Infrastructure",
-        "Optimization"
+        "model-serving",
+        "deployment-optimization",
+        "AI-production"
       ],
-      "url": "https://developer.nvidia.com/blog/introducing-nvidia-fleet-intelligence-for-real-time-gpu-fleet-visibility-and-optimization/",
-      "published": "2026-05-11T19:44:27Z",
-      "fetched_at": "2026-05-12T14:41:08.808036+00:00"
+      "url": "https://developer.nvidia.com/blog/how-to-eliminate-pipeline-friction-in-ai-model-serving/",
+      "published": "2026-05-12T18:00:00Z",
+      "fetched_at": "2026-05-13T03:55:15.300933+00:00"
     },
     {
       "id": 59,
       "source": "NVIDIA Developer",
+      "title": "Introducing NVIDIA Fleet Intelligence for Real-Time GPU Fleet Visibility and Optimization",
+      "summary": "NVIDIA introduces Fleet Intelligence for real-time GPU fleet visibility and optimization. The tool helps teams manage large-scale GPU deployments, addressing challenges with heterogeneous hardware, software stacks, and power management.",
+      "tags": [
+        "GPU",
+        "Fleet Management",
+        "Data Centers"
+      ],
+      "url": "https://developer.nvidia.com/blog/introducing-nvidia-fleet-intelligence-for-real-time-gpu-fleet-visibility-and-optimization/",
+      "published": "2026-05-11T19:44:27Z",
+      "fetched_at": "2026-05-13T03:55:17.007974+00:00"
+    },
+    {
+      "id": 60,
+      "source": "NVIDIA Developer",
       "title": "Improving Bash Generation in Small Language Models with Grammar-Constrained Decoding",
-      "summary": "Researchers improve Bash command generation in small language models using grammar-constrained decoding, enabling AI agents to produce valid executable shell commands reliably.",
+      "summary": "Researchers improve Bash command generation in small language models using grammar-constrained decoding, enabling AI agents to produce valid executable shell commands for file operations and system tasks.",
       "tags": [
         "bash-generation",
         "language-models",
@@ -826,83 +840,69 @@
       ],
       "url": "https://developer.nvidia.com/blog/improving-bash-generation-in-small-language-models-with-grammar-constrained-decoding/",
       "published": "2026-05-08T17:13:33Z",
-      "fetched_at": "2026-05-12T14:41:10.353678+00:00"
-    },
-    {
-      "id": 60,
-      "source": "NVIDIA Developer",
-      "title": "Streaming Tokens and Tools: Multi-Turn Agentic Harness Support in NVIDIA Dynamo",
-      "summary": "NVIDIA Dynamo introduces streaming tokens and tools for multi-turn agentic interactions, enabling assistants to interleave reasoning with tool calls while preserving structured conversation flow.",
-      "tags": [
-        "NVIDIA",
-        "AI Agents",
-        "Streaming"
-      ],
-      "url": "https://developer.nvidia.com/blog/streaming-tokens-and-tools-multi-turn-agentic-harness-support-in-nvidia-dynamo/",
-      "published": "2026-05-08T15:59:16Z",
-      "fetched_at": "2026-05-12T14:41:11.803989+00:00"
+      "fetched_at": "2026-05-13T03:55:18.410035+00:00"
     },
     {
       "id": 61,
       "source": "Meta Research",
       "title": "How generational differences affect consumer attitudes towards ads",
-      "summary": "A research study examines how generational differences influence consumer attitudes toward ads across various social media platforms, partnering with CrowdDNA.",
+      "summary": "Research study explores how generational differences shape consumer attitudes toward social media ads across platforms. Understanding varying age groups' relationships with advertising helps inform targeted marketing strategies.",
       "tags": [
-        "generational differences",
-        "social media advertising",
-        "consumer attitudes"
+        "generational-differences",
+        "social-media-ads",
+        "consumer-attitudes"
       ],
       "url": "https://research.facebook.com/blog/2023/5/how-generational-differences-affect-consumer-attitudes-towards-ads/",
       "published": "Wed, 17 May 2023 10:52:00",
-      "fetched_at": "2026-05-12T14:41:15.913729+00:00"
+      "fetched_at": "2026-05-13T03:55:22.196013+00:00"
     },
     {
       "id": 62,
       "source": "Meta Research",
       "title": "Every tree counts",
-      "summary": "Meta aims for net zero emissions by 2030 by developing carbon footprint mitigation technology and sharing it openly.",
+      "summary": "Meta commits to achieving net zero emissions by 2030 through developing carbon mitigation technology and sharing it openly.",
       "tags": [
-        "carbon-neutral",
+        "climate",
         "sustainability",
-        "technology"
+        "carbon-neutral"
       ],
       "url": "https://research.facebook.com/blog/2023/4/every-tree-counts-large-scale-mapping-of-canopy-height-at-the-resolution-of-individual-trees/",
       "published": "Mon, 17 Apr 2023 01:00:00",
-      "fetched_at": "2026-05-12T14:41:17.306406+00:00"
+      "fetched_at": "2026-05-13T03:55:23.301251+00:00"
     },
     {
       "id": 63,
       "source": "Meta Research",
       "title": "How a non-traditional background led to cutting-edge XR tech",
-      "summary": "An individual with unconventional background developed innovative extended reality technology, demonstrating how diverse experiences can drive technological advancement in the XR field.",
+      "summary": "An individual with a non-traditional background successfully developed cutting-edge XR technology, demonstrating how unconventional paths can lead to innovation and breakthrough discoveries in immersive tech.",
       "tags": [
         "XR technology",
         "innovation",
-        "non-traditional background"
+        "non-traditional careers"
       ],
       "url": "https://www.metacareers.com/life/how-a-non-traditional-background-led-to-cutting-edge-xr-tech",
       "published": "Fri, 14 Apr 2023 01:00:00",
-      "fetched_at": "2026-05-12T14:41:18.798280+00:00"
+      "fetched_at": "2026-05-13T03:55:24.626406+00:00"
     },
     {
       "id": 64,
       "source": "Berkeley AI Research",
       "title": "Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling",
-      "summary": "Adaptive Parallel Reasoning enables AI models to autonomously decide when to decompose tasks into parallel subtasks and manage concurrent processing threads based on problem requirements, advancing efficient inference scaling.",
+      "summary": "Adaptive Parallel Reasoning enables AI models to autonomously decide when to decompose tasks, spawn concurrent threads, and coordinate them for efficient inference scaling.",
       "tags": [
-        "parallel-reasoning",
-        "AI-inference",
-        "adaptive-computation"
+        "parallel reasoning",
+        "AI inference",
+        "adaptive systems"
       ],
       "url": "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/",
       "published": "Fri, 08 May 2026 02:00:00 -0700",
-      "fetched_at": "2026-05-12T14:41:20.494386+00:00"
+      "fetched_at": "2026-05-13T03:55:26.467261+00:00"
     },
     {
       "id": 65,
       "source": "Berkeley AI Research",
       "title": "Gradient-based Planning for World Models at Longer Horizons",
-      "summary": "GRASP is a new gradient-based planner for world models enabling practical long-horizon planning through parallel trajectory optimization, stochastic exploration, and improved gradient shaping for clean action signals.",
+      "summary": "GRASP is a gradient-based planner for world models enabling long-horizon planning through trajectory lifting, stochastic exploration, and gradient reshaping to improve optimization efficiency.",
       "tags": [
         "world models",
         "planning",
@@ -910,21 +910,21 @@
       ],
       "url": "http://bair.berkeley.edu/blog/2026/04/20/grasp/",
       "published": "Mon, 20 Apr 2026 02:00:00 -0700",
-      "fetched_at": "2026-05-12T14:41:21.955762+00:00"
+      "fetched_at": "2026-05-13T03:55:27.686027+00:00"
     },
     {
       "id": 66,
       "source": "Berkeley AI Research",
       "title": "Identifying Interactions at Scale for LLMs",
-      "summary": "Researchers developed methods to identify interactions at scale in Large Language Models to improve interpretability and understand how these complex systems make decisions, advancing safer and more trustworthy AI.",
+      "summary": "Research focuses on understanding Large Language Models' behavior through interpretability methods like feature attribution, aiming to make AI decision-making more transparent and trustworthy.",
       "tags": [
-        "LLM interpretability",
-        "feature interactions",
-        "AI safety"
+        "LLM Interpretability",
+        "Feature Attribution",
+        "AI Transparency"
       ],
       "url": "http://bair.berkeley.edu/blog/2026/03/13/spex/",
       "published": "Fri, 13 Mar 2026 02:00:00 -0700",
-      "fetched_at": "2026-05-12T14:41:23.482600+00:00"
+      "fetched_at": "2026-05-13T03:55:29.275931+00:00"
     }
   ]
 }
